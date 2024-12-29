@@ -146,6 +146,11 @@
 			"subreddit": "r/Prowlarr"
 		},
 		{
+			"name": "Proxarr",
+			"description": "Prevents Sonnar/Radarr downloading of media already available on your Watching providers by region (ex: Netflix, etc..).",
+			"github_slug": "Fazzani/Proxarr"
+		},
+		{
 			"name": "Radarr",
 			"description": "Automates & manages **movies**",
 			"github_slug": "Radarr/Radarr",
