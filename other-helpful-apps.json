@@ -1,6 +1,11 @@
 {
 	"applications": [
 		{
+			"name": "CLIX",
+			"description": "A Plex Terminal Media Player",
+			"github_slug": "jeremehancock/CLIX"
+		},
+		{
 			"name": "Gaps",
 			"description": "Searches through your Plex Server for all movies, then queries for known movies in the same collection.",
 			"github_slug": "JasonHHouse/gaps"
@@ -17,9 +22,24 @@
 			"subreddit": "r/Jellyfin"
 		},
 		{
+			"name": "Libretto",
+			"description": "A Plex Library Export Tool (CSV)",
+			"github_slug": "jeremehancock/Libretto"
+		},
+		{
+			"name": "Ludanta",
+			"description": "Now Playing on Plex/Jellyfin (Command Line)",
+			"github_slug": "jeremehancock/Ludanta"
+		},
+		{
 			"name": "Mayhem's Star Scripts",
 			"description": "Scripts to make using the starr apps easier, actively being updated",
 			"github_slug": "MayhemBill/Starr-Scripts"
+		},
+		{
+			"name": "MediaStats",
+			"description": "Simple Self-hosted Plex Media Stats Web App",
+			"github_slug": "jeremehancock/media-stats"
 		},
 		{
 			"name": "Ombi",
