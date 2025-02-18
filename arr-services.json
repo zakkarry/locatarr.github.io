@@ -26,6 +26,11 @@
 			"github_slug": "cardigann/cardigann"
 		},
 		{
+			"name": "CLIX",
+			"description": "A Plex Terminal Media Player",
+			"github_slug": "jeremehancock/CLIX"
+		},
+		{
 			"name": "Deleterr",
 			"description": "Automates deleting inactive and stale media from Plex/Sonarr/Radarr",
 			"github_slug": "rfsbraz/deleterr"
@@ -78,6 +83,11 @@
 			"subreddit": "r/Kapowarr"
 		},
 		{
+			"name": "Libretto",
+			"description": "A Plex Library Export Tool (CSV)",
+			"github_slug": "jeremehancock/Libretto"
+		},
+		{
 			"name": "Lidarr",
 			"description": "Automates & manages **music**",
 			"github_slug": "lidarr/lidarr",
@@ -94,9 +104,19 @@
 			"github_slug": "Monitorr/logarr"
 		},
 		{
+			"name": "Ludanta",
+			"description": "Now Playing on Plex/Jellyfin (Command Line)",
+			"github_slug": "jeremehancock/Ludanta"
+		},
+		{
 			"name": "Maintainerr",
 			"description": "Maintenance tool for the Plex ecosystem",
 			"github_slug": "jorenn92/Maintainerr"
+		},
+		{
+			"name": "MediaStats",
+			"description": "Simple Self-hosted Plex Media Stats Web App",
+			"github_slug": "jeremehancock/media-stats"
 		},
 		{
 			"name": "Monitorr",
