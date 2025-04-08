@@ -162,6 +162,11 @@
 			"github_slug": "Readarr/Readarr"
 		},
 		{
+			"name": "Recyclarr",
+			"description": "Automatically sync TRaSH Guides to your Sonarr and Radarr instances",
+			"github_slug": "recyclarr/recyclarr"
+		},
+		{
 			"name": "Requestrr",
 			"description": "chatbot used to simplify using services like Sonarr/Radarr/Ombi via chat",
 			"github_slug": "thomst08/requestrr"
