@@ -177,6 +177,11 @@
 			"github_slug": "thomst08/requestrr"
 		},
 		{
+			"name": "retraktarr",
+			"description": "retraktarr is a reverse Trakt.tv list implementation for Radarr/Sonarr that creates Trakt.tv lists for your movies/series using APIs.",
+			"github_slug": "zakkarry/retraktarr"
+		},
+		{
 			"name": "Rollarr",
 			"description": "Automatic Pre-roll script with a GUI for Plex (Archived)",
 			"github_slug": "red4dj/Rollarr"
